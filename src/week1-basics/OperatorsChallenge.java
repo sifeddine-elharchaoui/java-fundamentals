@@ -15,6 +15,7 @@ public class OperatorsChallenge {
         int difference = num1 - num2;
         int product = num1 * num2;
 
+
         // Quotient and remainder
         if (num2 != 0) {
             int quotient = num1 / num2;
